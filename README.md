@@ -16,9 +16,11 @@ https://code.visualstudio.com
 ## Fuentes:
 > "Como criar um jogo SIMPLES usando JavaScript e HTML | JavaScript para iniciantes - Tutorial" Manual do Dev
 ## Más información:
->https://www.nintendo.co.jp/software/smb1/index.html
+> https://www.nintendo.co.jp/software/smb1/index.html
 
->https://www.nintendo.co.jp/character/mario/
+> https://www.nintendo.co.jp/character/mario/
 
+Juego gratis de mario bien lento
+> https://game-ac.com/free/mario/super-mario-maker/
 
 
